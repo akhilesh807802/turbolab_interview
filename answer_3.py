@@ -2,6 +2,7 @@ from hashlib import md5
 
 import os
 
+# data folder should be in same directory as the answers_X.py files
 
 def find_duplicates():
     hashes = []
